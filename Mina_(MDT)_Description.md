@@ -1,0 +1,18 @@
+- CPU
+	- AMD Ryzen 7 5800X
+- Motherboard
+	- ASUS ROG Crosshair VIII Dark Hero (WiFi)
+- CPU Cooler
+	- NZXT Kraken X73 RGB 360mm
+- RAM
+	- Corsair Vengeance RGB PRO 64GB (2x32GB) DDR4 3600
+- Storage
+	- 	- Samsung 980 Pro 1T (used existing)
+- GPU
+	- Sapphire AMD FirePro W5100
+- Case
+	- Corsaif Carbide 175R
+- PSU
+	- be quiet! Straight Power 11 Platinum 850W
+- Completed build -- 2023.02.17
+---

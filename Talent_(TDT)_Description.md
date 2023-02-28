@@ -1,0 +1,21 @@
+
+- CPU
+	- AMD Ryzen 9 5950
+- Motherboard
+	- ASUS ROG Crosshair VIII Dark Hero (WiFi)
+- CPU Cooler
+	- Noctua NH-D15
+- RAM
+	- Teamgroup T-Force Xtreem ARGB 3600MHz
+	- 128 GB
+- Storage
+	- Samsung 980 Pro - 1T
+- GPU
+	- AMD FirePro W7000
+- Case -- Cooler Master MasterCase SL 600M
+- Case Cooling
+	- 4X - Noctua NF-A15 (140mm)
+- PSU
+	- be quiet! Straight Power 11 Platinum 850W
+
+- Completed build -- 2021.12.15
