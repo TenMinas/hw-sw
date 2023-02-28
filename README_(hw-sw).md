@@ -1,0 +1,10 @@
+- 2023.02.27
+- Over the last 15 months
+	- I have built two desktop computers.  The hardware for each is described in:
+		- Talent_(TDT)_Description.md
+		- Mina_(MDT)_Description.md
+	- Software
+		- I learned enough Arch Linux to get it running on the two computers.  I still have a lot more to learn about it.
+		- The basic plus explicitly installed S/W configuration for Mina is described in Software_Description.md
+		- Sadly, I recently broke Talent and haven't had a chance to fix it.  I was working on a means of remotely unlocking the root partition after a reboot.  The last thing I messed with was the loader entry.  So, that is where I will start to get it back on line in a few days.
+	- 
